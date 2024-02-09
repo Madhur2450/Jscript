@@ -3,7 +3,7 @@ const accountid = 1234
 let mailID = "madhur@gmail.com"
 var accountpass = "12345"
 city = "gorakhpur"
-state =
+state = ("1")
 
 // accountid = 9876  
 
