@@ -53,11 +53,13 @@ srt3 = srt1 + srt2
 
 
 
-console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + 2 + 2);
-console.log(1 + 2 + "2"); // 1-number calculation, 2- then all will trit as string. 
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2"); // 1-number calculation, 2- then all will trit as string. 
 
-console.log(3 + 45 - 12 % 12 ); // wrong way (not practical way to write)
+// console.log(3 + 45 - 12 % 12 ); // wrong way (not practical way to write)
+
+
 
 
