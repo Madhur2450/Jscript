@@ -14,7 +14,7 @@ const otherNumber = 123.5433
 console.log(otherNumber.toPrecision(2));
 
 const hundreds = 1000000
-// console.log(hundreds.toLocaleString('en-IN'));
+console.log(hundreds.toLocaleString('en-IN'));
 
 // ****************Maths*******************
 
